@@ -3,9 +3,7 @@ logo: "/images/kavi22.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Ilze Briede [a.k.a. Kavi] is a Latvian/Canadian artist and researcher with broad and diverse interests. Her practice, a hybrid of video, image and object making, investigates the phenomenon of perception and the constraints and boundaries between the senses and knowing. Kavi is currently pursuing a PhD degree in Digital Media at York University, intersecting art and science research areas such as bio-physiological sensing, computational creativity, and generative art. Her deeper focus is on the pattern and possibility for richness and complexity it can offer by becoming a 'space' for multi-species collaborations and intersections. Kavi is also an active performer and collaborator of images and sounds. She has previously shown her work at Currents New Media Festival, International Festival of Digital Culture + Code, IASPM Canada Conference, FACTT Trans-disciplinary & Trans-National Festival of Art & Science, SloMoCo, Fashion Art Toronto, and Toronto Nuit Blanche. 
   <br><br>
-  :://
-  <br><br>
-  // <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
